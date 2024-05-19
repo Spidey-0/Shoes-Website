@@ -273,7 +273,7 @@ section .main .button:hover i{
 }
 
 .products .box .card .products_text .products_star{
-    color: orange;
+    color: blue;
     margin-bottom: 19px;
     cursor: pointer;
 }
