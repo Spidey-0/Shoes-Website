@@ -36,7 +36,7 @@ section nav{
     align-items: center;
     justify-content: space-around;
     box-shadow: 0 0 8px rgba(0,0,0,0.6);
-    background: black;
+    background: white;
     position: fixed;
     top: 0;
     left: 0;
@@ -204,7 +204,7 @@ section .main .button:hover i{
     width: 290px;
     height: 440px;
     box-shadow: 0 0 8px #6c14d0;
-    border-radius: 5px;
+    border-radius: 6px;
     text-align: center;
     padding: 10px 20px;
     background: #f6f6f6;
